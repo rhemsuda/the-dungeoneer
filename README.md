@@ -6,13 +6,13 @@ Procedural generated dungeon crawler. Explore dungeons, fight monsters, and coll
 2. Click `dungeoneer.exe` to play
 
 ### Controls
-WASD - Movement controls
-SHIFT - Run
-1 - Basic attack
-2 - Jump attack (High critical rate)
-3 - Spin attack (Area of Effect)
-P - Use potion
-F - Interact
+WASD - Movement controls\n
+SHIFT - Run\n
+1 - Basic attack\n
+2 - Jump attack (High critical rate)\n
+3 - Spin attack (Area of Effect)\n
+P - Use potion\n
+F - Interact\n
 
 ### Background
 To strengthen my knowledge of procedural design and game development, I challenged myself to make a clone of an aspect of a popular game I used to play called Runescape. The Dungeoneer was modelled after Runescapes Dungeoneering skill, which allows the user to traverse through randomly generated dungeons with random keys and doors. I took this a little further and focused on supporting different sized rooms that can be linked together like puzzle pieces. The project took longer than expected, and there were lots of constraints and problems that came up that delayed development and caused a slightly late arrival. Below I will explain some of the constraints I had to overcome, and some of the areas I learned the most from this assignment.
