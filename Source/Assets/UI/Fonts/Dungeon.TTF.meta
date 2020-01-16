@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dac04011e72100b4c8df8a7fb4fe1745
+timeCreated: 1509420972
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dungeon
+  fontNames:
+  - Dungeon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

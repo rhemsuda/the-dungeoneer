@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: e0ec5230175454b26b359a278b8daf58
+timeCreated: 1508734087
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ChairStand
+    100002: Connector1
+    100004: Connector2
+    100006: Connector3
+    100008: //RootNode
+    100010: Floor
+    100012: Jail1
+    100014: Jail2
+    100016: Opening1
+    100018: Opening2
+    100020: Opening3
+    100022: Walls
+    100024: JailWaill6
+    100026: JailWall1
+    100028: JailWall2
+    100030: JailWall3
+    100032: JailWall4
+    100034: JailWall5
+    100036: Roof
+    100038: Wall1
+    100040: Wall2
+    100042: Wall3
+    100044: Wall4
+    400000: ChairStand
+    400002: Connector1
+    400004: Connector2
+    400006: Connector3
+    400008: //RootNode
+    400010: Floor
+    400012: Jail1
+    400014: Jail2
+    400016: Opening1
+    400018: Opening2
+    400020: Opening3
+    400022: Walls
+    400024: JailWaill6
+    400026: JailWall1
+    400028: JailWall2
+    400030: JailWall3
+    400032: JailWall4
+    400034: JailWall5
+    400036: Roof
+    400038: Wall1
+    400040: Wall2
+    400042: Wall3
+    400044: Wall4
+    2300000: ChairStand
+    2300002: Connector1
+    2300004: Connector2
+    2300006: Connector3
+    2300008: Floor
+    2300010: Jail1
+    2300012: Jail2
+    2300014: Opening1
+    2300016: Opening2
+    2300018: Opening3
+    2300020: Walls
+    2300022: JailWaill6
+    2300024: JailWall1
+    2300026: JailWall2
+    2300028: JailWall3
+    2300030: JailWall4
+    2300032: JailWall5
+    2300034: Roof
+    2300036: Wall1
+    2300038: Wall2
+    2300040: Wall3
+    2300042: Wall4
+    3300000: ChairStand
+    3300002: Connector1
+    3300004: Connector2
+    3300006: Connector3
+    3300008: Floor
+    3300010: Jail1
+    3300012: Jail2
+    3300014: Opening1
+    3300016: Opening2
+    3300018: Opening3
+    3300020: Walls
+    3300022: JailWaill6
+    3300024: JailWall1
+    3300026: JailWall2
+    3300028: JailWall3
+    3300030: JailWall4
+    3300032: JailWall5
+    3300034: Roof
+    3300036: Wall1
+    3300038: Wall2
+    3300040: Wall3
+    3300042: Wall4
+    4300000: ChairStand
+    4300002: Opening1
+    4300004: Walls
+    4300006: Floor
+    4300008: Jail1
+    4300010: Jail2
+    4300012: Opening2
+    4300014: Opening3
+    4300016: Connector3
+    4300018: Connector2
+    4300020: Connector1
+    4300022: Wall2
+    4300024: Wall4
+    4300026: JailWall1
+    4300028: JailWall2
+    4300030: JailWall4
+    4300032: Wall1
+    4300034: Wall3
+    4300036: JailWall3
+    4300038: JailWaill6
+    4300040: JailWall5
+    4300042: Roof
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
