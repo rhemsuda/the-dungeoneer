@@ -1,7 +1,7 @@
 # the-dungeoneer
 Procedural generated dungeon crawler. Explore dungeons, fight monsters, and collect keys to make your way to the final boss.
 
-Check out Assets/Scripts/DungeonCreator.cs for procedural dungeon creation logic
+Check out Source/Assets/Scripts/Dungeon/DungeonCreator.cs for procedural dungeon creation logic
 
 ### How to run
 1. Open Build folder
