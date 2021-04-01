@@ -6,6 +6,7 @@ Check out Source/Assets/Scripts/Dungeon/DungeonCreator.cs for procedural dungeon
 ### How to run
 1. Open Build folder
 2. Click `dungeoneer.exe` to play
+> Note: You can also choose to watch the attached HairPhysics.mp4 file if the executable doesn't work or if you're on a protected computer
 
 ### Controls
 WASD - Movement controls
