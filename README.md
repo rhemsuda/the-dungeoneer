@@ -3,6 +3,10 @@ Procedural generated dungeon crawler. Explore dungeons, fight monsters, and coll
 
 Check out Source/Assets/Scripts/Dungeon/DungeonCreator.cs for procedural dungeon creation logic
 
+Click the image below to view the video on Youtube:
+  
+[![Video demonstration of dungeon creator on YouTube](https://img.youtube.com/vi/Bhs-AbVmzlM/0.jpg)](https://www.youtube.com/watch?v=Bhs-AbVmzlM)
+
 ### How to run
 1. Open Build folder
 2. Click `dungeoneer.exe` to play
